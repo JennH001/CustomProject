@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood;
+}
+
+.title {
+    justify-items: center;
+    padding-top: 250px;
+}
+
+.Options {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    border: 1px solid bisque;
+    gap: 90px;
+    justify-self: center;
+}
+
+.Form {
+    padding-top: 40px;
+    justify-self: center;
+}
